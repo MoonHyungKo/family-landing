@@ -42,7 +42,7 @@ export default function Footer() {
           <div className="flex-1 min-h-[320px] md:min-h-[380px] relative overflow-hidden rounded-b-[24px] md:rounded-r-[24px] md:rounded-bl-none border-t md:border-t-0 md:border-l border-gray-800 group">
             {/* 네이버 지도 이미지 */}
             <img 
-              src="/지도첫화면.png" 
+              src="/map_bg.png" 
               alt="패밀리통신 까치산점 네이버 지도 위치" 
               className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-700 ease-out" 
             />
